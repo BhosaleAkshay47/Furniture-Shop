@@ -1,57 +1,70 @@
-Furniture Shop – Django Web Application
+Furniture Shop – Web Application
 
 A full-stack Furniture Shop web application built using Django.
 This project allows users to browse furniture products, manage a shopping cart, and place orders through a clean and responsive interface.
 
 📌 Features
 
-User-friendly furniture catalog
+  User-friendly furniture catalog
 
-Product categories
+  Product categories
+  
+  Shopping cart functionality
 
-Shopping cart functionality
+  Customer management
 
-Customer management
+  Admin panel for product control
 
-Admin panel for product control
+  Responsive UI with static assets
 
-Responsive UI with static assets
-
-SQLite database integration
+  SQLite database integration
 
 🛠️ Tech Stack
 
-Backend   Python
+  Backend   Python
 
-Django    Framework
+  Django    Framework
 
-Frontend  HTML5 CSS3 JavaScript Bootstrap
+  Frontend  HTML5 CSS3 JavaScript Bootstrap
 
-Database  SQLite3
+  Database  SQLite3
 
 📂 Project Structure
 FurnitureShop/
 │
 ├── FurnitureShop/
+
 │   ├── manage.py
+
 │   ├── db.sqlite3
+
 │   ├── FurnitureShop/
 │   │   ├── settings.py
 │   │   ├── urls.py
 │   │   └── wsgi.py
 │
 ├── FurniApp/
+
 │   ├── admin.py
+
 │   ├── apps.py
+
 │   ├── forms.py
+
 │   ├── models.py
+
 │   ├── views.py
+
 │   ├── urls.py
+
 │   ├── migrations/
+
 │   ├── templates/
+
 │   └── static/
 │
 └── README.md
+
 
 🚀 Installation & Setup
 
