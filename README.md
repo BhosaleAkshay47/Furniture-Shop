@@ -30,8 +30,11 @@ This project allows users to browse furniture products, manage a shopping cart, 
   Database  SQLite3
 
 📂 Project Structure
+
 FurnitureShop/
+
 │
+
 ├── FurnitureShop/
 
 │   ├── manage.py
@@ -39,10 +42,15 @@ FurnitureShop/
 │   ├── db.sqlite3
 
 │   ├── FurnitureShop/
+
 │   │   ├── settings.py
+
 │   │   ├── urls.py
+
 │   │   └── wsgi.py
+
 │
+
 ├── FurniApp/
 
 │   ├── admin.py
@@ -62,7 +70,9 @@ FurnitureShop/
 │   ├── templates/
 
 │   └── static/
+
 │
+
 └── README.md
 
 
@@ -72,7 +82,7 @@ Follow these steps to run the project locally:
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/your-username/furniture-shop.git
+git clone https://github.com/BhosaleAkshay47/Furniture-Shop.git
 cd furniture-shop
 
 2️⃣ Create Virtual Environment (Optional but Recommended)
